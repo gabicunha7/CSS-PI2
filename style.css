@@ -38,10 +38,13 @@ h1 {
 }
 
 .cor2 {
+    order: 3;/*mudou ordem*/
+    align-self:last baseline; /*levou para baixo*/
     background-color: #63B1BC;
 }
 
 .cor3 {
+    align-self: center;/*levou para o meio*/
     background-color: #EFB661;
 }
 
